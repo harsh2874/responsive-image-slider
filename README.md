@@ -5,7 +5,7 @@ A simple image slider built using **HTML, CSS, and JavaScript**.
 ## 🔗 Live Demo
 
 You can view the project live here:  
-[Click to View]()
+[Click to View](https://harsh2874.github.io/responsive-image-slider/)
 
 ## 📌 Overview
 
